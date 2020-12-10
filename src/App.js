@@ -17,7 +17,8 @@ function App() {
     })
   }, [])
   return (
-    <div>
+    
+    <div className='App'>
       <Header data={data} />
     </div>
   )

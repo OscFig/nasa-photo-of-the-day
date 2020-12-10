@@ -2,6 +2,7 @@ import React from 'react'
 import Image from './Image'
 
 export default function Header(props) {
+    
     const { data } = props;
     // console.log(props,'props')
     // console.log(data,'data')
