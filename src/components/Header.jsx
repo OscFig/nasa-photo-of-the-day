@@ -5,7 +5,7 @@ export default function Header(props) {
     
     const { data } = props;
     // console.log(props,'props')
-    // console.log(data,'data')
+    console.log(data,'data')
     return (
         <div>
             <h1>{data.title}</h1>
